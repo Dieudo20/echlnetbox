@@ -1,4 +1,4 @@
-# echlnetbox
+# netbox
 # Installation et configuratioin de NetBox 
 ### Netbox est un outils open-source IPAM (IP Address Management) et DCIM (DataCenter Infrastructure Management).
 Il sert à référencer les adresses IP, vlans, devices, racks...
